@@ -1,4 +1,5 @@
 # Ba-U-Gas-Leakage-Detector
+[![Hits](https://hits.sh/github.com/ShatilKhan/Ba-U-Gas-Leakage-Detector/hits.svg)](https://hits.sh/github.com/ShatilKhan/Ba-U-Gas-Leakage-Detector/hits/)  
 A Modern Low Cost gas leakage detection system.
 
 Prototype
